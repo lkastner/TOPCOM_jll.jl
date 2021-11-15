@@ -25,3 +25,195 @@ os = "linux"
     [[TOPCOM.download]]
     sha256 = "86079b778e80e3d5ccf58c2f491bff7026fcd71590311a24171a56bece833e0e"
     url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-linux-musl.tar.gz"
+[[TOPCOM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2b028b53590eea083ed52f66f2bd92e61472daa8"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "5531ef98a2f432ffb65a7d1eeb9f487012ace99b097885a848dcc88ce434c55f"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.aarch64-linux-gnu-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a32853ab3682233f51a7093d18c711c337514c8"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "4018d70c12d06d5a6dcde40d47c5ccad66dbce76672d19e90a5b205562c49420"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.aarch64-linux-gnu-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eddc74809cd7cb231019d98e8c8b6fdd0b6add7c"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "3ab1952de9a39c4f6630b03071e55561dbc08ecd569c364ade42ac8ca347e192"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.aarch64-linux-musl-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04ecf9bb101762f1154a460834cac73c7484906b"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "b0483f6a81540186e71748d7620d4327a257d6c421cfb24af9326d0d9ef1f33a"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.aarch64-linux-musl-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96d946bf00dc8f792891ee2c607f34f35bbc640a"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "9af71a16c51d3ee7e285e2151de69df1d130c039ed6f4f34f2df5663f57af38a"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "33a4bbb4db5ded3fb640df2a50c7e6af142ffa05"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "46a6c6009a9f1860603ec192fa02f6867bd79b6545f75a14be78cb4486b27b33"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "634221fa68ba3df9fd36cf6b57e188211474efe9"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "44914ac7aaa78e605f615c945abbfce90d66dbb1047552c83ab33b3954465efe"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c5792e27c9d48fb6f16dcf1fbce86146226a5a2"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "2f1a27ead292a2ac1ef5b033690bee281582a5ee8a18bfeb456099eb0e8ce998"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "53971fafdce03ff6223c4eeed0fc450b113e1a42"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "a5de9dbe4edcc19f7491dcba5ab2e26b4ab0ef485790d611a6befa06ec91b3f6"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.i686-linux-gnu-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "28678ccbc7cdb6fa325890c85b4919d26852f72e"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "4fb01a4959b653ebbe2f1f814a962d168be120d19cabfae8a16a4d15c598fad0"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.i686-linux-gnu-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59a944c7f3628e577ccdf3b136aaff17014ceff6"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "ff32fc616c8d3517d54fb08c716fded257d3a4c568ebf76eef63f8eb50ac2077"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.i686-linux-musl-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3b3e9d54a34c8e8f83504e1cc575d31f04fd5ad7"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "6edfeee021700f0e33bad083b1d9c12b543a3f8f167a635bacc35b5d460aaabe"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.i686-linux-musl-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1c890b5e68a23c8d73033268fec9f8c75547d12e"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "95139c4886a47241f20d15ef6091b96a2a471d4de3c151a2c297fb5b289bcc8b"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f7d213986fa07b4c22002c75ff8ad91272d01f4b"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "da95b704e0bff5fade32efd890f1e9226699f5e40b6158a8b35bf462a3b2bb56"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1273fdec6d0173a5b8c7736d21a81c8fb25e3571"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "52dbcccdbcc780c9127baab7951697c95abc15e1f64fc2688e44caef7f73feb9"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-linux-gnu-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd68730aff498263b17d075d75f6102e2e124990"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "ac7adac2eeefa67a2bce86290c1e737913f31df39cbad09662bdce46eaf38ae8"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-linux-gnu-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1be17a75e779322e781dba42c8a7e4b3ce02bb7a"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "9e10039c440cc4aa4c157763ee1bca0f427b94e5835ea0ff243d75cacc531d57"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-linux-musl-cxx03.tar.gz"
+[[TOPCOM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "136d87c3b4f13a28bbd4aef58abd3a05d678f54c"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "857910deb993f3e572c11e60f1577c0316491b53890c98af3b3e4552746ab409"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-linux-musl-cxx11.tar.gz"
+[[TOPCOM]]
+arch = "x86_64"
+git-tree-sha1 = "0e503c2047faa9a31dab8d71fcbf3f8c9999bee4"
+os = "freebsd"
+
+    [[TOPCOM.download]]
+    sha256 = "31352f290b7a6328c20062e3dee94868c1f2293b63b91bf35d6fe80a7bcdbbb7"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-unknown-freebsd.tar.gz"
