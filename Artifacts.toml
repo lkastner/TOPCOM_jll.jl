@@ -1,0 +1,27 @@
+[[TOPCOM]]
+arch = "i686"
+git-tree-sha1 = "694689b5c57899fe43c7bacf672e905d59d5d577"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "83903fe40186cc922ee201fc0c7d64d17998050389739c6fcaf3fb285ae6073d"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.i686-linux-gnu.tar.gz"
+[[TOPCOM]]
+arch = "x86_64"
+git-tree-sha1 = "ab568460f610609804c0573d012c89c55be7ac1d"
+libc = "glibc"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "3b56a0f5dc338d5f9a9169f29e453bfdffb323066c6e7fa8a938c9f2abe45327"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-linux-gnu.tar.gz"
+[[TOPCOM]]
+arch = "x86_64"
+git-tree-sha1 = "7e347e5ea5e7079bbd259d9a4d2f6211061f84de"
+libc = "musl"
+os = "linux"
+
+    [[TOPCOM.download]]
+    sha256 = "86079b778e80e3d5ccf58c2f491bff7026fcd71590311a24171a56bece833e0e"
+    url = "https://github.com/lkastner/TOPCOM_jll.jl/releases/download/TOPCOM-v0.17.8+0/TOPCOM.v0.17.8.x86_64-linux-musl.tar.gz"
